@@ -3,7 +3,8 @@
 **Wireframing** is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
 
 #### Heres an example of simple sketch  :
-![simple sketch](https://miro.medium.com/max/2060/0*K5476VixXhddhBkA.jpg).
+![simple sketch](https://miro.medium.com/max/2060/0*K5476VixXhddhBkA.jpg)
+
 
 ## Whats the best tools for Wireframing?
 There are heaps of free tools out there for creating wireframes and prototypes, so you should experiment with as many as you can to find the ones that suit you the best. Don’t forget that you can also just use pen and paper! Below we’ve listed three online tools we find particularly good. The examples below all have free trials, so check them out!
